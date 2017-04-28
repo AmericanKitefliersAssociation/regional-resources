@@ -1,0 +1,24 @@
+{
+  "name": "regional-resources",
+  "version": "1.0.0",
+  "description": "A JS plugin for displaying regional resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmericanKitefliersAssociation/regional-resources.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AmericanKitefliersAssociation/regional-resources/issues"
+  },
+  "homepage": "https://github.com/AmericanKitefliersAssociation/regional-resources#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2"
+  }
+}
